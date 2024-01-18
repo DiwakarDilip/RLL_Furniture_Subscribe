@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"54abd778-f88a-46b2-8add-c7c9a5273691","feature":"Subscribe Feature","scenario":"Subscribe scenario with differe set of data","start":1705603368409,"group":1,"content":"","tags":"","end":1705603451465,"className":"failed"},{"id":"e5104098-4698-4c13-afb1-9c78ef5f60a5","feature":"Subscribe Feature","scenario":"Subscribe scenario with differe set of data","start":1705603304703,"group":1,"content":"","tags":"","end":1705603368126,"className":"failed"},{"id":"09846381-2db5-4045-a992-7b3dc07d95a7","feature":"Subscribe Feature","scenario":"Subscribe scenario with differe set of data","start":1705603452117,"group":1,"content":"","tags":"","end":1705603548731,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[#1,main,5,main]"}]);
+});
